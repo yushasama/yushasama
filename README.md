@@ -9,6 +9,3 @@
 [🔗 More About Me](https://koishite.ru)
 
 [📜 Blog](https://cache-me-if-you-can.up.railway.app/)
-
-###
-![🎧 Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=22wze6clglxu5emr7t32oduji&count=5)
