@@ -3,7 +3,7 @@
 ###
 <p align="left">Software Engineer & Judoka. <br><br>Writing code. Designing systems. Optimizing everything.<br><br></p>
 
-<p align="left"> Currently Studying - Distributed Systems, Memory Architecture for LLMs, Control Systems<br><br></p>
+<p align="left"> Currently Studying - Distributed Systems, Memory Architecture for LLMs, Control Systems, Operating Systems, Low Latency Programming<br><br></p>
 
 [![wakatime](https://wakatime.com/badge/user/f47f41c7-5163-496f-8735-3cc60fe4a962.svg)](https://wakatime.com/@f47f41c7-5163-496f-8735-3cc60fe4a962)
 
