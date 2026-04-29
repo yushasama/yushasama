@@ -1,7 +1,7 @@
 <h1 align="left">♱ Leon Do</h1>
 
 ###
-<p align="left">Software Engineer & Judoka. <br><br>Writing code. Designing systems. Optimizing everything.<br><br></p>
+<p align="left">Software Engineer & Judoka. <br><br> European cooking in my free time.<br><br></p>
 
 <p align="left"> Currently Studying - Algorithmic Game Theory, Operating Systems, Advanced Algorithms <br><br></p>
 
