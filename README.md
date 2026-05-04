@@ -3,7 +3,7 @@
 ###
 <p align="left">Software Engineer & Judoka. <br><br> European cooking in my free time.<br><br></p>
 
-<p align="left"> Currently Studying - Algorithmic Game Theory, Operating Systems, Advanced Algorithms <br><br></p>
+<p align="left"> Currently Studying - ML Systems & Optimization, Operating Systems, Advanced Algorithms <br><br></p>
 
 <p align="left"> Upcoming Competitions - AIXDATA 2026, ICPC Socal Regionals 2026 <br><br></p>
 
