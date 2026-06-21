@@ -7,7 +7,7 @@
 
 <p align="left"> Upcoming Competitions - ICPC Socal Regionals 2026 <br><br></p>
 
-<p align="left"> Current Competitions - None ATM <br></p>
+<p align="left"> Current Competitions - Kaggle's Pokemon TCG AI <br></p>
 
 <p align="left"> Past Competitions - HRT x Partcl Chip Placement Algorithim Comp, IMC Prosperity Algo Trading 2026 , LAHacks 2026, Waterloo Quant Club Blotto Tournament 2026, ICPC Socal Regionals 2025 <br><br></p>
 
