@@ -1,7 +1,7 @@
 <h1 align="left">♱ Leon Do</h1>
 
 ###
-<p align="left">Software Engineer & Judoka. <br><br> European cooking in my free time.<br><br></p>
+<p align="left">Software Engineer & Judoka. European cooking in my free time. <br><br> Read my [blog](https://koishite.ru/blog) <br><br></p>
 
 <p align="left"> Currently Studying - ML Systems & Optimization, Operating Systems, Advanced Algorithms <br><br></p>
 
